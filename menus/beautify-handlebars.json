@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Beautify Code",
+        "command": "beautify-handlebars:beautify"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "beautify-handlebars",
+          "submenu": [
+            {
+              "label": "Beautify Code",
+              "command": "beautify-handlebars:beautify"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

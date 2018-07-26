@@ -1,0 +1,28 @@
+{
+  "name": "beautify-handlebars",
+  "main": "./lib/beautify-handlebars",
+  "version": "0.1.0",
+  "description": "Beautify your handlebars/hbs/handlebars files using prettier",
+  "keywords": [
+    "handlebars",
+    "mustache",
+    "hbs",
+    "beautify",
+    "format"
+  ],
+  "activationCommands": {
+    "atom-workspace": "beautify-handlebars:beautify"
+  },
+  "repository": "https://github.com/atom/beautify-handlebars",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "prettier": "1.13.7"
+  },
+  "devDependencies": {
+    "eslint": "5.2.0",
+    "jasmine": "^3.1.0"
+  }
+}
