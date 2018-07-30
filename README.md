@@ -1,4 +1,4 @@
-# beautify-handlbars
+# beautify-handlebars
 
 [![Travis Build Status](https://travis-ci.org/kandhavivekraj/beautify-handlebars.svg?branch=master)](https://travis-ci.org/kandhavivekraj/beautify-handlebars)
 
