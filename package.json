@@ -1,7 +1,7 @@
 {
   "name": "beautify-handlebars",
   "main": "./lib/beautify-handlebars",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Beautify your handlebars/hbs/handlebars files using prettier",
   "keywords": [
     "handlebars",
@@ -13,7 +13,7 @@
   "activationCommands": {
     "atom-workspace": "beautify-handlebars:beautify"
   },
-  "repository": "https://github.com/atom/beautify-handlebars",
+  "repository": "https://github.com/kandhavivekraj/beautify-handlebars",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
