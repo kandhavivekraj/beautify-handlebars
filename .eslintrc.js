@@ -18,7 +18,7 @@ module.exports = {
         ],
         'indent': [
             'error',
-            'tab'
+            2
         ],
         'linebreak-style': [
             'error',
@@ -34,11 +34,12 @@ module.exports = {
         ],
         'brace-style': [
           'error',
-          'stroustrup', {
+          '1tbs', {
             'allowSingleLine': true
           }
         ],
         'no-undef': 'off',
-        'no-unused-vars': 'off'
+        'no-unused-vars': 'off',
+        "comma-dangle": ["error", "never"],
     }
 };
