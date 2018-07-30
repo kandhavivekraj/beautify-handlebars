@@ -6,11 +6,11 @@ Beautify your handlebars/mustache, using prettier.
 
 Here is the Unformatted code
 
-![Unformatted Code](assets/images/Unformatted.png)
+![Unformatted Code](assets/images/Unformatted.png) {:height="50%" width="50%"}
 
 Press `cmd-shift-b`, then the formatted code will be,
 
-![Formatted Code](assets/images/Formatted.png)
+![Formatted Code](assets/images/Formatted.png) {:height="50%" width="50%"}
 
 **Usage**
 
