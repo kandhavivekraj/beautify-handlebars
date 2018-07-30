@@ -1,6 +1,6 @@
 # beautify-handlbars
 
-https://travis-ci.org/kandhavivekraj/beautify-handlebars.svg?branch=master
+[![Travis Build Status](https://travis-ci.org/kandhavivekraj/beautify-handlebars.svg?branch=master)](https://travis-ci.org/kandhavivekraj/beautify-handlebars)
 
 Beautify your handlebars/mustache, using prettier.
 
