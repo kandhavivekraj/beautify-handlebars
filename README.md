@@ -25,8 +25,8 @@ you can customize these in the Atom's keymap.cson (`Atom -> Keymap..`)
 <img src="assets/images/keybinding.png" width="496" height="173" alt="Formatted Code">
 
 **Installation**
-  - In Atom, go to Settings (`cmd-,`) -> Install -> Search Beautify handlbars
-  - Or, run `apm install beautify-handlbars`
+  - In Atom, go to Settings (`cmd-,`) -> Install -> Search Beautify handlebars
+  - Or, run `apm install beautify-handlebars`
 
 ### Settings
 
