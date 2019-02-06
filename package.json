@@ -1,7 +1,7 @@
 {
   "name": "beautify-handlebars",
   "main": "./lib/beautify-handlebars",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Beautify your handlebars/hbs/handlebars files using prettier",
   "keywords": [
     "handlebars",
