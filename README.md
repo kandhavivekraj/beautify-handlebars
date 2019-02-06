@@ -6,13 +6,13 @@ Beautify your handlebars/mustache fiels, using Prettier.
 
 Before:
 
-<img src="https://github.com/kandhavivekraj/beautify-handlebars/blob/master/assets/images/Unformatted.png" width=600px alt="Unformatted Code">
+<img src="https://raw.githubusercontent.com/kandhavivekraj/beautify-handlebars/master/assets/images/Unformatted.png" width=600px alt="Unformatted Code">
 
 To format, use the keyboard shortcut `cmd-shift-b`,
 
 After:
 
-<img src="https://github.com/kandhavivekraj/beautify-handlebars/blob/master/assets/images/Formatted.png" width=600px alt="Formatted Code">
+<img src="https://raw.githubusercontent.com/kandhavivekraj/beautify-handlebars/master/assets/images/Formatted.png" width=600px alt="Formatted Code">
 
 **Usage**
 
