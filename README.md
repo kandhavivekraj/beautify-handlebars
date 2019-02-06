@@ -1,18 +1,18 @@
 # beautify-handlebars
 
-[![Travis Build Status](https://travis-ci.org/kandhavivekraj/beautify-handlebars.svg?branch=master)](https://travis-ci.org/kandhavivekraj/beautify-handlebars) [![GitHub version](https://badge.fury.io/gh/kandhavivekraj%2Fbeautify-handlebars.svg)](https://badge.fury.io/gh/kandhavivekraj%2Fbeautify-handlebars)
+[![Travis Build Status](https://travis-ci.org/kandhavivekraj/beautify-handlebars.svg?branch=master)](https://travis-ci.org/kandhavivekraj/beautify-handlebars) [![Github Version](https://img.shields.io/github/tag/kandhavivekraj/beautify-handlebars.svg?colorB=brightgreen&label=version&style=for-the-badge)](https://github.com/kandhavivekraj/beautify-handlebars)
 
 Beautify your handlebars/mustache fiels, using Prettier.
 
 Before:
 
-<img src="assets/images/Unformatted.png" width=600px alt="Unformatted Code">
+<img src="https://github.com/kandhavivekraj/beautify-handlebars/blob/master/assets/images/Unformatted.png" width=600px alt="Unformatted Code">
 
 To format, use the keyboard shortcut `cmd-shift-b`,
 
 After:
 
-<img src="assets/images/Formatted.png" width=600px alt="Formatted Code">
+<img src="https://github.com/kandhavivekraj/beautify-handlebars/blob/master/assets/images/Formatted.png" width=600px alt="Formatted Code">
 
 **Usage**
 
